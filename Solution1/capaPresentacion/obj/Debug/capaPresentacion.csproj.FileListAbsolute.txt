@@ -1,0 +1,15 @@
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\bin\Debug\capaPresentacion.exe
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\bin\Debug\capaPresentacion.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\bin\Debug\capaNegocios.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\bin\Debug\capaDatos.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\bin\Debug\capaNegocios.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\bin\Debug\capaDatos.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\obj\Debug\capaPresentacion.Form1.resources
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\obj\Debug\capaPresentacion.exe
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\obj\Debug\capaPresentacion.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\obj\Debug\capaPresentacion.FormParent.resources
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaPresentacion\obj\Debug\capaPresentacion.Form2.resources
